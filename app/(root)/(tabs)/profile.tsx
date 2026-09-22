@@ -16,7 +16,6 @@ import {
   ActivityIndicator,
   Alert,
   ScrollView,
-  Switch,
   Text,
   TouchableOpacity,
   View,
